@@ -44,7 +44,7 @@ user_groups:
 - Visitors
 ---
 
-I am an associate professor of learning analytics at [University of North Texas](https://unt.edu). I got my B.S. and M.S. in Earth Science (focusing on astronomy) from Seoul National University, and got my Ph.D. in Educational Computing from [University of Illinois at Urbana-Champaign](https://uiuc.edu).
+I am an associate professor of learning analytics at [University of North Texas](https://unt.edu). I got my B.S. and M.S. in Earth Science (focusing on astronomy) from [Seoul National University](http://en.snu.ac.kr), and got my Ph.D. in Educational Computing from [University of Illinois at Urbana-Champaign](https://uiuc.edu).
 
 After getting my Ph.D., I worked at [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu) (NCSA) as a senior research programmer. Before I came to KU, I worked at [Massachusetts of Institute of Technology](https://mit.edu) (MIT) as a research associate. While working at MIT, I participated in various educational data mining research projects that investigated educational benefits of a Web-based physics tutoring environment called MasteringPhysics.
 
