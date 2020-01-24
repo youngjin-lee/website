@@ -1,3 +1,5 @@
 http://youngjin-lee.rbind.io/*      https://youngjin-lee.rbind.io/:splat  301!
 https://youngjin-lee.netlify.com/*  https://youngjin-lee.rbind.io/:splat  301!
 http://youngjin-lee.netlify.com/*   https://youngjin-lee.rbind.io/:splat  301!
+https://youngjin-lee.github.io/*  https://youngjin-lee.rbind.io/:splat  301!
+http://youngjin-lee.github.io/*   https://youngjin-lee.rbind.io/:splat  301!
