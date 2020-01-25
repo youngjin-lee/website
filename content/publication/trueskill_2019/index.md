@@ -27,6 +27,6 @@ tags:
 - User modeling
 - Educational Data Mining (EDM)
 - Learning Analytics (LA)
-title: Estimating student ability and problem difficulty using item response theory (IRT) and TrueSkill
+title: Estimating student ability and problem difficulty using Item Response Theory (IRT) and TrueSkill
 
 ---
