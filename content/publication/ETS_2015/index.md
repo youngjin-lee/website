@@ -13,7 +13,7 @@ publication_types:
 publishDate: "2015-05-20T00:00:00Z"
 tags:
 - Problem solving
-- Physcis education
+- Physics education
 - Statistical modeling
 - Log file analysis
 - Computer-based learning environment
