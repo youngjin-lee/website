@@ -11,7 +11,7 @@ authors:
 - J. E. Donnelly
 date: "2016-05-01T00:00:00Z"
 doi: "http://dx.doi.org/10.1016/j.cct.2015.11.019"
-featured: false
+featured: true
 projects: []
 publication: 'Contemporary Clinical Trials'
 publication_short: ""

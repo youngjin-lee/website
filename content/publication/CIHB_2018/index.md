@@ -4,7 +4,7 @@ authors:
 - admin
 date: "2018-05-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.chb.2018.04.043"
-featured: false
+featured: true
 projects: []
 publication: 'Computers in Human Behavior'
 publication_short: ""

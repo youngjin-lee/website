@@ -13,7 +13,7 @@ authors:
 - admin
 date: "2019-05-01T00:00:00Z"
 doi: "https://doi.org/10.1108/IDD-08-2018-0030"
-featured: false
+featured: true
 projects: []
 publication: 'Information Discovery and Delivery'
 publication_short: ""

@@ -4,7 +4,7 @@ authors:
 - admin
 date: "2018-05-01T00:00:00Z"
 doi: "https://doi.org/10.1177/0735633117753364"
-featured: false
+featured: true
 projects: []
 publication: 'Journal of Educational Computing Research'
 publication_short: ""
