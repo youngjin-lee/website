@@ -17,11 +17,10 @@ weight = 130
 
 1. [Reflection on Research](files/self_evaluation_research.pdf)
     - Featured Articles
-      - [Estimating student ability and problem difficulty using item response theory (IRT) and TrueSkill](files/trueskill_2019.pdf)
-      - [Effect of uninterrupted time-on-task on students’ success in Massive Open Online Courses (MOOCs)](files/uninterrupted_learning_2018.pdf)
-      - [Using Self-Organizing Map and clustering to investigate problem-solving patterns in the massive open
-online course: An exploratory study](files/SOM.pdf)
-      - [A virtual reality intervention (Second Life) to improve weight maintenance: Rationale and design for an 18-month randomized trial](files/second_life_2016.pdf)
+      - [Estimating student ability and problem difficulty using item response theory (IRT) and TrueSkill](files/!trueskill_2019.pdf)
+      - [Effect of uninterrupted time-on-task on students’ success in Massive Open Online Courses (MOOCs)](files/!uninterrupted_learning_2018.pdf)
+      - [Using Self-Organizing Map and clustering to investigate problem-solving patterns in the massive open online course: An exploratory study](files/!SOM.pdf)
+      - [A virtual reality intervention (Second Life) to improve weight maintenance: Rationale and design for an 18-month randomized trial](files/!second_life_2016.pdf)
 2. [Reflection on Teaching](files/self_evaluation_teaching.pdf)
     - Syllabus 1: [LTEC 6514](files/LTEC6514_syllabus.pdf)
     - Syllabus 2: [LTEC 5702](files/LTEC5702_syllabus.pdf)
