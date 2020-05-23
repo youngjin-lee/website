@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   company = "National Center for Supercomputing Applications"
   company_url = "http://www.ncsa.illinois.edu"
   location = "Urbana, IL"
-  date_start = "2004-01-01"
+  date_start = "2003-08-01"
   date_end = "2005-05-31"
   description = """
   Developed [virtual electronic microscope](https://www.nasa.gov/offices/education/centers/kennedy/technology/Virtual_Lab.html) software in collaboration with NASA
